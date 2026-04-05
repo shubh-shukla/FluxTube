@@ -1,6 +1,6 @@
-# YouTube Clone App
+# FluxTube App
 
-Cross-platform YouTube clone mobile app built with React Native for iOS and Android. Demonstrates core mobile development skills including UI implementation, navigation patterns, video playback integration, and cross-platform compatibility.
+Cross-platform FluxTube mobile app built with React Native for iOS and Android. Demonstrates core mobile development skills including UI implementation, navigation patterns, video playback integration, and cross-platform compatibility.
 
 ## Features
 - YouTube-inspired UI layout with dark theme
@@ -18,8 +18,8 @@ Cross-platform YouTube clone mobile app built with React Native for iOS and Andr
 
 ## Getting Started
 
-- git clone https://github.com/shubh-shukla/YoutubeApp.git
-- cd YoutubeApp
+- git clone https://github.com/shubh-shukla/FluxTube.git
+- cd FluxTube
 - npm install
 - npx pod-install # iOS only
 
