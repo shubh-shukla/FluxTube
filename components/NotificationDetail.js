@@ -25,7 +25,7 @@ const NotificationDetail = () => {
           numberOfLines={3}
           ellipsizeMode="tail"
           style={{width: 210, fontSize: 12}}>
-          Building Youtube
+          Building FluxTube
         </Text>
         <Text style={{fontSize: 12, color: 'gray'}}>30 minutes ago</Text>
       </View>

@@ -9,7 +9,7 @@ const Search = ({fetchData}) => {
       lightTheme
       clearIcon
       round
-      placeholder="Search YouTube"
+      placeholder="Search FluxTube"
       onChangeText={setSearch}
       value={search}
       containerStyle={styles.container}

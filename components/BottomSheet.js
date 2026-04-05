@@ -42,7 +42,7 @@ const BottomSheet = ({setStart}) => {
             color="black"
           />
         </View>
-        <Text style={{padding: 10}}>Building Youtube</Text>
+        <Text style={{padding: 10}}>Building FluxTube</Text>
       </View>
     </View>
   );
